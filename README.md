@@ -18,7 +18,7 @@ Working:
   - `SerperDevTool` (Google Search)
   - `ScrapeWebsiteTool`  
 * Summarizes and compiles a report using LLM agents
-* Uses Composio’s Gmail API to send a well-formatted invitation email to doctors  
+* Uses Gmail SMTP to send a well-formatted invitation email to doctors  
 
 
 Tech Stack
